@@ -12,7 +12,3 @@ Sociology graduate with an interest in data analysis and statistical tools for t
 I'm currently based in Arequipa, Perú
 <br />
 <br />
-
-**Happy Coding!** 😊
-
-</div>
