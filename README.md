@@ -9,6 +9,5 @@
 Sociology graduate with an interest in data analysis and statistical tools for tackling social issues.
 <br />
 
-I'm currently based in Arequipa, Perú
 <br />
 <br />
